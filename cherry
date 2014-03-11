@@ -4,7 +4,6 @@ Cherry pick List:
 Framework
 --------
 Halo1:https://github.com/ParanoidAndroid/android_frameworks_base/commit/518c329e8c67fa96b8a8fc22e1962ddb8497c333
-Halo2:https://github.com/ParanoidAndroid/android_packages_apps_Settings/commit/7c739a86e7a02451a63615d71f1b6c846caacdc6
 Halo3:https://github.com/ParanoidAndroid/android_frameworks_base/commit/4f4dd8dceaeafa182d75606f7c3adf59b37d973d
 Lockscreen Blur: git fetch https://gerrit.omnirom.org/android_frameworks_base refs/changes/05/5705/23 && git cherry-pick FETCH_HEAD
 Battery1: https://gerrit.omnirom.org/#/c/2828/
@@ -19,6 +18,7 @@ Settings:
 SuperSU: https://gerrit.omnirom.org/#/c/4932/
 Battery2: https://gerrit.omnirom.org/#/c/2829/
 Volume-Wake2: https://gerrit.omnirom.org/#/c/1144/
+Halo2:https://github.com/ParanoidAndroid/android_packages_apps_Settings/commit/7c739a86e7a02451a63615d71f1b6c846caacdc6
 
 SystemUi:
 -----------------
