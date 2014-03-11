@@ -18,6 +18,6 @@ How to build:
 Files:
 -----------------------
 
-                              Resources: https://github.com/pure4-Lg-L3/manifest/blob/master/res.txt
+Resources: https://github.com/pure4-Lg-L3/manifest/blob/master/res.txt
 
-                              Features: https://github.com/pure4-Lg-L3/manifest/blob/master/features.txt
+Features: https://github.com/pure4-Lg-L3/manifest/blob/master/features.txt
