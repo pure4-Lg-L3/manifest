@@ -1,5 +1,16 @@
-**pure rom manifest**
+**Rom manifest**
 ================================================
+
+**A** *ndroid*
+
+**O** *pen*
+
+**S** *ource*
+
+**PURE**
+
+
+
 
 
 How to build:
