@@ -10,6 +10,10 @@
 **PURE**
 
 
+Info:
+-----------------------
+
+Feature List: https://github.com/pure4-Lg-L3/manifest/blob/master/features
 
 
 
@@ -26,9 +30,3 @@ How to build:
 
 
 
-Files:
------------------------
-
-Resources: https://github.com/pure4-Lg-L3/manifest/blob/master/res
-
-Features: https://github.com/pure4-Lg-L3/manifest/blob/master/features
