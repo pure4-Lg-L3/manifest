@@ -22,11 +22,11 @@ How to build:
                               
                               
                               
-                              *mkdir -p aospure*
+                              mkdir -p aospure
 
-                              *repo init -u https://github.com/pure4-Lg-L3/manifest -b master*
+                              repo init -u https://github.com/pure4-Lg-L3/manifest -b master
 
-                              *repo sync -j8*
+                              repo sync -j8
 
 
 
