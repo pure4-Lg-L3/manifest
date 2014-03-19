@@ -17,6 +17,20 @@ https://github.com/ParanoidAndroid/android_frameworks_base/commit/518c329e8c67fa
 https://github.com/ParanoidAndroid/android_packages_apps_Settings/commit/7c739a86e7a02451a63615d71f1b6c846caacdc6
 https://github.com/ParanoidAndroid/android_frameworks_base/commit/4f4dd8dceaeafa182d75606f7c3adf59b37d973d
 
+#Profiles
+https://gerrit.paranoidandroid.co/#/c/3741/
+https://gerrit.paranoidandroid.co/#/c/3743/
+
+
+#Blacklist
+https://gerrit.omnirom.org/#/c/5668/
+https://gerrit.omnirom.org/#/c/6347/
+https://gerrit.omnirom.org/#/c/5669/
+https://gerrit.omnirom.org/#/c/5671/
+https://gerrit.omnirom.org/#/c/5011/
+https://gerrit.omnirom.org/#/c/5012/
+https://gerrit.omnirom.org/#/c/5010/
+
 ----------------------------------------------------------------------------------------
 
 ##SYSTEMUI
@@ -47,6 +61,13 @@ https://gerrit.paranoidandroid.co/#/c/3749/
 https://gerrit.paranoidandroid.co/#/c/3750/
 https://gerrit.paranoidandroid.co/#/c/3753/
 https://github.com/AOSPA/android_frameworks_base/commit/1405aca50a1854a4b547fa699efe514a852e5c3c
+
+
+#Hardware Key + Immersive Mode
+
+http://review.cyanogenmod.org/#/c/53468/
+http://review.cyanogenmod.org/#/c/54219/
+http://review.cyanogenmod.org/#/c/27965/
 
 ----------------------------------------------------------------------------------------
 
