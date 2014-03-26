@@ -35,6 +35,7 @@ https://gerrit.omnirom.org/#/c/5010/
 #Advenced reboot
 https://gerrit.slimroms.net/#/c/1879/
 https://gerrit.slimroms.net/#/c/1880/
+
 ----------------------------------------------------------------------------------------
 
 ##SYSTEMUI
