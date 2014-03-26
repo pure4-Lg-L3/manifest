@@ -31,6 +31,11 @@ https://gerrit.omnirom.org/#/c/5011/
 https://gerrit.omnirom.org/#/c/5012/
 https://gerrit.omnirom.org/#/c/5010/
 
+#DialerLookup
+http://review.cyanogenmod.org/#/c/61115/
+http://review.cyanogenmod.org/#/c/61116/
+http://review.cyanogenmod.org/#/c/61117/
+http://review.cyanogenmod.org/#/c/61118/
 ----------------------------------------------------------------------------------------
 
 ##SYSTEMUI
@@ -52,6 +57,7 @@ https://gerrit.paranoidandroid.co/#/c/464/
 https://gerrit.paranoidandroid.co/#/c/496/
 https://gerrit.paranoidandroid.co/#/c/497/
 https://gerrit.paranoidandroid.co/#/c/3569/
+https://gerrit.paranoidandroid.co/#/c/3607/
 https://gerrit.paranoidandroid.co/#/c/3645/
 https://gerrit.paranoidandroid.co/#/c/3650/
 https://gerrit.paranoidandroid.co/#/c/3680/
@@ -60,6 +66,7 @@ https://gerrit.paranoidandroid.co/#/c/3706/
 https://gerrit.paranoidandroid.co/#/c/3749/
 https://gerrit.paranoidandroid.co/#/c/3750/
 https://gerrit.paranoidandroid.co/#/c/3753/
+https://gerrit.paranoidandroid.co/#/c/3768/
 https://github.com/AOSPA/android_frameworks_base/commit/1405aca50a1854a4b547fa699efe514a852e5c3c
 
 
