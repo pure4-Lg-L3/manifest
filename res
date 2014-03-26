@@ -31,11 +31,10 @@ https://gerrit.omnirom.org/#/c/5011/
 https://gerrit.omnirom.org/#/c/5012/
 https://gerrit.omnirom.org/#/c/5010/
 
-#DialerLookup
-http://review.cyanogenmod.org/#/c/61115/
-http://review.cyanogenmod.org/#/c/61116/
-http://review.cyanogenmod.org/#/c/61117/
-http://review.cyanogenmod.org/#/c/61118/
+
+#Advenced reboot
+https://gerrit.slimroms.net/#/c/1879/
+https://gerrit.slimroms.net/#/c/1880/
 ----------------------------------------------------------------------------------------
 
 ##SYSTEMUI
@@ -72,9 +71,8 @@ https://github.com/AOSPA/android_frameworks_base/commit/1405aca50a1854a4b547fa69
 
 #Hardware Key + Immersive Mode
 
-http://review.cyanogenmod.org/#/c/53468/
-http://review.cyanogenmod.org/#/c/54219/
-http://review.cyanogenmod.org/#/c/27965/
+https://gerrit.slimroms.net/#/c/2420/
+https://gerrit.slimroms.net/#/c/2389/
 
 ----------------------------------------------------------------------------------------
 
@@ -118,6 +116,22 @@ https://gerrit.paranoidandroid.co/#/c/222/
 
 #About: Rom Version
 https://gerrit.paranoidandroid.co/#/c/125/
+
+----------------------------------------------------------------------------------------
+
+##Dialer
+
+#Lookup
+http://review.cyanogenmod.org/#/c/61115/
+http://review.cyanogenmod.org/#/c/61116/
+http://review.cyanogenmod.org/#/c/61117/
+http://review.cyanogenmod.org/#/c/61118/
+
+#Smartcall
+https://gerrit.omnirom.org/#/c/6315/
+https://gerrit.omnirom.org/#/c/6307/
+https://gerrit.omnirom.org/#/c/6316/
+https://gerrit.omnirom.org/#/c/6317/
 
 ----------------------------------------------------------------------------------------
 
