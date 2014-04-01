@@ -67,6 +67,8 @@ https://gerrit.paranoidandroid.co/#/c/3749/
 https://gerrit.paranoidandroid.co/#/c/3750/
 https://gerrit.paranoidandroid.co/#/c/3753/
 https://gerrit.paranoidandroid.co/#/c/3768/
+https://gerrit.paranoidandroid.co/#/c/3809/
+https://gerrit.paranoidandroid.co/#/c/3824/
 https://github.com/AOSPA/android_frameworks_base/commit/1405aca50a1854a4b547fa699efe514a852e5c3c
 
 
@@ -114,9 +116,13 @@ https://gerrit.omnirom.org/#/c/4932/
 
 #Appops
 https://gerrit.paranoidandroid.co/#/c/222/
+https://gerrit.paranoidandroid.co/#/c/359/
 
 #About: Rom Version
 https://gerrit.paranoidandroid.co/#/c/125/
+
+#Resource for some infos
+https://gerrit.paranoidandroid.co/#/c/3640/
 
 ----------------------------------------------------------------------------------------
 
@@ -136,6 +142,13 @@ https://gerrit.omnirom.org/#/c/6317/
 
 ----------------------------------------------------------------------------------------
 
+##Download
+https://gerrit.omnirom.org/#/c/6571/
+https://gerrit.omnirom.org/#/c/6572/
+
+
+----------------------------------------------------------------------------------------
+
 ##Other
 
 #Busybox
@@ -145,7 +158,6 @@ https://gerrit.paranoidandroid.co/#/c/142/
 https://gerrit.omnirom.org/#/c/1780/
 
 ----------------------------------------------------------------------------------------
-
 
 
 
