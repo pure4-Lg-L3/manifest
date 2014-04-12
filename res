@@ -36,6 +36,21 @@ https://gerrit.omnirom.org/#/c/5010/
 https://gerrit.slimroms.net/#/c/1879/
 https://gerrit.slimroms.net/#/c/1880/
 
+#T-mobile Theme
+http://review.cyanogenmod.org/62363
+http://review.cyanogenmod.org/62485
+http://review.cyanogenmod.org/62469
+http://review.cyanogenmod.org/62369
+http://review.cyanogenmod.org/62368
+http://review.cyanogenmod.org/62366
+http://review.cyanogenmod.org/62365
+http://review.cyanogenmod.org/62375
+http://review.cyanogenmod.org/62367
+http://review.cyanogenmod.org/62362
+http://review.cyanogenmod.org/62373
+http://review.cyanogenmod.org/62372
+http://review.cyanogenmod.org/62371
+
 ----------------------------------------------------------------------------------------
 
 ##SYSTEMUI
